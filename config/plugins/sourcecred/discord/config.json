@@ -5,7 +5,7 @@
       "weights": {
       }
     },
-    "guildId": "678348980639498428",
+    "guildId": "742384562646286509",
     "includeNsfwChannels": false,
     "propsChannels": [
     ],
@@ -13,8 +13,6 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        "sourcecred:678399364418502669": 10,
-        "👍": 1
       }
     },
     "roleWeightConfig": {
